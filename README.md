@@ -4,12 +4,9 @@ DSC 80 Final Projecttt
 ### Data CLeaning and Exploratory Data Analysis
 
 
-<iframe
-  ![Sodium Box Plot](assets/sodium_box.png) 
-  width="800"
-  height="600"
-  frameborder="0"
-></iframe>
+
+<img src='assets/sodium_box.png' width='500'> 
+
 
 ### Assessment of Missingness
 ### Hypothesis Testing
