@@ -3,12 +3,13 @@ DSC 80 Final Projecttt
 ### Introduction
 ### Data CLeaning and Exploratory Data Analysis
 
-<iframe
+![Sodium Box Plot](assets/sodium_box.png) 
+<!-- <iframe
   src="assets/sodium_box.html"
   width="800"
   height="600"
   frameborder="0"
-></iframe>
+></iframe> -->
 
 ### Assessment of Missingness
 ### Hypothesis Testing
@@ -16,4 +17,3 @@ DSC 80 Final Projecttt
 ### Baseline Model
 ### Final Model
 ### Fairness Analysis
-# skeet
